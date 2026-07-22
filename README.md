@@ -1,7 +1,3 @@
-# Retail Intelligence Platform
-
-A modular Commerce and Analytics Platform with Providence as the pilot implementation.
-
 # DataVision Enterprise Intelligence Platform (DEIP)
 
 An AI-native enterprise platform for designing, building, and managing modular business applications.
@@ -23,6 +19,15 @@ Rather than building each application from scratch, DEIP offers a common archite
 ## First Implementation
 
 The first implementation built on DEIP is the **Retail Intelligence Platform (RIP)**, which demonstrates how the platform can be applied to a real-world retail and commerce solution.
+
+```text
+DataVision Solutions
+  -> DataVision Enterprise Intelligence Platform (DEIP)
+      -> Retail Intelligence Platform (RIP)
+          -> Providence pilot implementation
+```
+
+DEIP owns the reusable enterprise architecture, shared services, module framework, theme framework, security model, analytics foundation, and deployment direction. RIP is the first industry implementation built on that platform. Providence remains the pilot implementation used to validate RIP.
 
 ## Repository Contents
 
