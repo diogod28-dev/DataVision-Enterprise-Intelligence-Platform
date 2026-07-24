@@ -29,13 +29,18 @@ The first implementation built on DEIP is the **Retail Intelligence Platform (RI
         ┌─────────────────┴─────────────────┐
         │                                   │
         ▼                                   ▼
-Retail Intelligence Platform          Future Platforms
-        │                              Healthcare
-        ▼                              Finance
-Providence Pilot                      Logistics
+Retail Intelligence Platform       Future Industry Solutions
+        │                               Healthcare
+        ▼                               Finance
+    Providence                          Logistics
+    (Pilot Implementation)                  
 ```
 
-DEIP owns the reusable enterprise architecture, shared services, module framework, theme framework, security model, analytics foundation, and deployment direction. RIP is the first industry implementation built on that platform. Providence remains the pilot implementation used to validate RIP.
+**DEIP owns the reusable enterprise architecture, shared services, module framework, theme framework, security model, analytics foundation, and deployment direction.**
+
+RIP is the first industry implementation built on that platform.
+
+Providence remains the pilot implementation used to validate RIP.
 
 ## Repository Contents
 
