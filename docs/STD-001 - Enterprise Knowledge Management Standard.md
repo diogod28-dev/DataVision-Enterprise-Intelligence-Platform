@@ -6,8 +6,8 @@
 |---|---|
 | Document ID | STD-001 |
 | Document Title | Enterprise Knowledge Management Standard |
-| Version | 0.2 (Draft) |
-| Status | Draft |
+| Version | 1.0  |
+| Status | Approved |
 | Classification | Internal |
 | Owner | DataVision Solutions |
 | Approval Authority | Founder |
@@ -16,8 +16,8 @@
 
 | Version | Status | Date | Description | Approved By |
 |---|---|---|---|---|
-| 0.1 | Draft | Not specified | Initial draft of the Enterprise Knowledge Management Standard. | Pending |
 | 0.2 | Draft | Not specified | Added revision history, document relationships, DEKS terminology, enterprise search philosophy, Knowledge Domain metadata and Knowledge Metrics. | Pending |
+| 1.0 | Approved | 30-Jul-2026 | Baseline release of the Enterprise Knowledge Management Standard. | Founder |
 
 ## Document Relationships
 
